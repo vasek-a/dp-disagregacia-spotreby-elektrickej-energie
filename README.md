@@ -7,8 +7,6 @@ alebo plánovanie všeobecne. Merať v prostredí domácností priamo spotrebu j
 
 
 
-ciele a kalendar splnenych a planovanych uloh
-
 |Cieľ||
 |-|-|
 |preštudovať články ku dostupným datasetom, Graph Signal Processing prístupu:

@@ -5,7 +5,7 @@ Práca sa venuje rozloženiu agregovanej spotreby elektrickej energie pre domác
 Analýza spotreby elektrickej energie je dôležitá pre jej šetrenie, účinnejšie využitie
 alebo plánovanie všeobecne. Merať v prostredí domácností priamo spotrebu jednotlivých komponentov nie je praktické, pretože by to vyžadovalo inštaláciu množstva senzorov pre množstvo domácností. Agregovaná spotreba je ale dodávateľmi elektrickej energie dobre monitorovaná za účelom faktúrovania.
 
-
+<!---
 
 |Cieľ||
 |-|-|
@@ -25,3 +25,4 @@ alebo plánovanie všeobecne. Merať v prostredí domácností priamo spotrebu j
 |disagregácia jedného spotrebiča|30.6.2023
 |implementovať a vyskúšať neurónovú sieť navrhnutú v článku|1.9.2023
 ||https://doi.org/10.1109/TII.2021.3065934
+--->

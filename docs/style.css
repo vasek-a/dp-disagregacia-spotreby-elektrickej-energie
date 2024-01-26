@@ -1,0 +1,69 @@
+body {
+    font-family: "Arial", "Arial Black", serif;
+    text-align: center;
+
+    background-color: lightsteelblue;
+}
+
+section p {
+    font-weight: bold;
+}
+a {
+/*    color: cornflowerblue;*/
+}
+#plan {
+    width: 50%;
+    text-align: left;
+    float: left;
+    clear: left;
+}
+#plan table {
+    text-align: center;
+    border-spacing: 20px 10px;
+    padding: 10px;
+}
+table tr>td {
+    background-color: lightgray;
+    border: 3px solid gray;
+    border-radius: 10px;
+    padding: 3px;
+
+    font-weight: bold;
+
+}
+#zdroje {
+    width: 50%;
+    text-align: left;
+    float: right;
+    clear: right;
+}
+#zdroje table {
+    text-align: center;
+    border-spacing: 20px 10px;
+    padding: 10px;
+}
+#prezentacia {
+    width: 50%;
+    text-align: left;
+    float: right;
+    clear: right;
+}
+#prezentacia table {
+    text-align: center;
+    border-spacing: 20px 10px;
+    padding: 10px;
+    width: available;
+    margin: auto;
+}
+#dennik {
+    width: 50%;
+    text-align: left;
+    float: left;
+    clear: left;
+}
+#dennik table {
+    text-align: center;
+    border-spacing: 20px 10px;
+    padding: 10px;
+}
+
